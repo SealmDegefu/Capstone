@@ -194,3 +194,4 @@ For additional support, check out these guides on Heroku:
 
 - [Deploying a Rails 6 App to Heroku][heroku rails deploying guide]
 - [Rails Troubleshooting on Heroku][troubleshooting guide on heroku]
+# Capstone
